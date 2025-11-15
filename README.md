@@ -1,6 +1,7 @@
 **VIBEO Pegboards 📌**
 
 **Brand Overview**
+
 VIBEO Pegboards is a lifestyle-focused brand that transforms everyday spaces into personalized, functional, and aesthetic setups. From students and freelancers to gamers and designers, our pegboards adapt to each personality and need. The brand emphasizes creativity, self-expression, and digital-first storytelling to inspire people to design their dream workspace or room.
 
 
@@ -35,38 +36,45 @@ Fares Ehab – Social Media Manager
 Manages daily posting schedule, audience engagement, and community growth. Launches social campaigns and interactive challenges .
 
 **🗂️ VIBEO Work Plan**
-1. Research & Analysis:
+
+**1. Research & Analysis:**
+
 Market and competitor research (gaming accessories, desk organizers, aesthetic setups).
 Target audience personas (gamers, streamers, content creators, tech enthusiasts).
 Pain points and behavior analysis (cluttered setups, expensive imported products, low awareness of setup aesthetics).
 Moodboard and creative direction (visual style, neon/modern aesthetic, minimal layouts).
 
-2. Brand Identity:
+**2. Brand Identity:**
+
 Logo design and brand naming.
 Color palette and typography (modern, neon highlights, clean lines).
 Tone of voice and messaging guidelines (friendly, motivational, setup-focused).
 Visual guidelines for social media and product presentation.
 
-3. Awareness & Visual Content:
+**3. Awareness & Visual Content:**
+
 Social media posts, carousels, and reels.
 Explainer videos showcasing setup transformations.
 Paid campaign visuals for TikTok/Instagram targeting gamers.
 Storytelling campaigns highlighting setup aesthetics and product benefits.
 Before/After content to inspire and educate.
 
-4. Product & Educational Components:
+**4. Product & Educational Components:**
+
 Free guides/tutorials on “How to organize your gaming setup.”
 Demonstrations of VIBEO Pegboards in real setups.
 Short “Setup Tips” videos for practical usage and inspiration.
 Visual comparisons of setups with and without VIBEO Pegboards.
 
-5. Community Building:
+**5. Community Building:**
+
 Telegram/Discord group for gamers and setup enthusiasts.
 Discussion topics, setup challenges, tips & tricks.
 Mentorship and peer feedback sessions.
 Showcasing real user transformations and success stories.
 
-6. Review & Finalization:
+**6. Review & Finalization:**
+
 Internal review and refinements of content and campaigns.
 Export visuals and videos in high-quality formats for social media.
 Presentation-ready portfolio of campaigns, setup transformations, and community highlights.
