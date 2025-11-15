@@ -1,4 +1,4 @@
-**VIBEO Pegboards 📌**
+**VIBEO Pegboards **
 
 **Brand Overview**
 
@@ -35,7 +35,7 @@ Manages paid ads across Facebook, Instagram, TikTok, and Google. Runs A/B testin
 Fares Ehab – Social Media Manager
 Manages daily posting schedule, audience engagement, and community growth. Launches social campaigns and interactive challenges .
 
-**🗂️ VIBEO Work Plan**
+**VIBEO Work Plan**
 
 **1. Research & Analysis:**
 
@@ -79,3 +79,8 @@ Internal review and refinements of content and campaigns.
 Export visuals and videos in high-quality formats for social media.
 Presentation-ready portfolio of campaigns, setup transformations, and community highlights.
 cumentation of brand assets, content guidelines, and campaign results for future use.
+
+
+**Instructor**
+
+**Eng. Safyeldin**
