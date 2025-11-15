@@ -5,6 +5,8 @@
 VIBEO Pegboards is a lifestyle-focused brand that transforms everyday spaces into personalized, functional, and aesthetic setups. From students and freelancers to gamers and designers, our pegboards adapt to each personality and need. The brand emphasizes creativity, self-expression, and digital-first storytelling to inspire people to design their dream workspace or room.
 
 
+
+
 **Project Plan**
 
 Our mission is to position VIBEO Pegboards as the go-to brand for customizable setups through:
@@ -13,6 +15,10 @@ Our mission is to position VIBEO Pegboards as the go-to brand for customizable s
 -Data-driven strategies to optimize reach, engagement, and conversion.
 -Influencer and community partnerships to build trust and inspire authentic engagement.
 -Integrated digital marketing funnels connecting SEO, paid ads, content, and analytics into one ecosystem.
+
+
+
+
 
 
 **Team Roles & Responsibilities**
@@ -34,6 +40,10 @@ Manages paid ads across Facebook, Instagram, TikTok, and Google. Runs A/B testin
 
 Fares Ehab – Social Media Manager
 Manages daily posting schedule, audience engagement, and community growth. Launches social campaigns and interactive challenges .
+
+
+
+
 
 **VIBEO Work Plan**
 
@@ -79,6 +89,8 @@ Internal review and refinements of content and campaigns.
 Export visuals and videos in high-quality formats for social media.
 Presentation-ready portfolio of campaigns, setup transformations, and community highlights.
 cumentation of brand assets, content guidelines, and campaign results for future use.
+
+
 
 
 **Instructor**
