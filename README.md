@@ -1,4 +1,4 @@
-**VIBEO Pegboards **
+**VIBEO Pegboards**
 
 **Brand Overview**
 
